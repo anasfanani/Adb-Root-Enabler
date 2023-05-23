@@ -1,0 +1,23 @@
+#https://android.googlesource.com/platform/system/sepolicy/+/master/private/adbd.te
+#userdebug_or_eng
+allow adbd adbd process setcurrent
+allow adbd su process dyntransition
+#https://android.googlesource.com/platform/system/sepolicy/+/master/private/su.te
+allow su * * *
+#https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master/public/init.te
+allow init overlayfs_file dir relabelfrom
+allow init overlayfs_file dir mounton
+allow init overlayfs_file dir write
+allow init overlayfs_file file append
+allow init system_block_device blk_file write
+#https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master/public/fsck.te
+allow fsck system_block_device blk_file ioctl
+allow fsck system_block_device blk_file read
+allow fsck system_block_device blk_file write
+allow fsck system_block_device blk_file getattr
+allow fsck system_block_device blk_file lock
+allow fsck system_block_device blk_file append
+allow fsck system_block_device blk_file map
+allow fsck system_block_device blk_file open
+allow fsck system_block_device blk_file watch
+allow fsck system_block_device blk_file watch_reads
