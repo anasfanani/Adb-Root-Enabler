@@ -1,3 +1,7 @@
+[![anasfanani - Adb-Root-Enabler](https://img.shields.io/static/v1?label=anasfanani&message=Adb-Root-Enabler&color=blue&logo=github)](https://github.com/anasfanani/Adb-Root-Enabler "Go to GitHub repo")
+[![Github All Releases](https://img.shields.io/github/downloads/anasfanani/Adb-Root-Enabler/total.svg)]()
+[![GitHub release](https://img.shields.io/github/release/anasfanani/Adb-Root-Enabler?include_prereleases=&sort=semver&color=blue)](https://github.com/anasfanani/Adb-Root-Enabler/releases/)
+[![issues - magisk-autoboot](https://img.shields.io/github/issues/anasfanani/Adb-Root-Enabler)](https://github.com/anasfanani/Adb-Root-Enabler/issues)
 # Adb-Root-Enabler
 
 ### Description
