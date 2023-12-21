@@ -33,6 +33,11 @@ After installation, the Adb daemon will be enabled without requiring authenticat
 
 Please note that modifying your device with root access can void your warranty and may lead to potential risks. Proceed with caution and make sure you understand the consequences of rooting your device.
 
+## Similiar Project
+
+- (tiann/adb_root)[https://github.com/tiann/adb_root] - Enable adb root in production build device for Android 11+.
+- (evdenis/adb_root)[https://github.com/evdenis/adb_root] - Android 9/10 only. Will not work on Android 11. 
+
 ## Disclaimer
 
 This software is provided "as is" and without any warranty. The author and contributors shall not be liable for any damages caused by the use of this software. Use it at your own risk.

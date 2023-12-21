@@ -1,6 +1,6 @@
 id=Adb-Root-Enabler
-name=Adb Root Enabler
+name=ADB Root Enabler
 version=1.2
 versionCode=1
-author=lexavey
+author=anasfanani
 description=Enable ADB root & authenticate
