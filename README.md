@@ -35,8 +35,8 @@ Please note that modifying your device with root access can void your warranty a
 
 ## Similiar Project
 
-- (tiann/adb_root)[https://github.com/tiann/adb_root] - Enable adb root in production build device for Android 11+.
-- (evdenis/adb_root)[https://github.com/evdenis/adb_root] - Android 9/10 only. Will not work on Android 11. 
+- [tiann/adb_root](https://github.com/tiann/adb_root) - Enable adb root in production build device for Android 11+.
+- [evdenis/adb_root](https://github.com/evdenis/adb_root) - Android 9/10 only. Will not work on Android 11. 
 
 ## Disclaimer
 
