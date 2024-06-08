@@ -1,6 +1,8 @@
-ro.debuggable=1
+ro.debuggable=0
 ro.adb.secure=0
 
 persist.service.adb.enable=1
-persist.service.debuggable=1
+persist.service.debuggable=0
 persist.sys.usb.config=mtp,adb
+
+service.adb.tcp.port=33445
